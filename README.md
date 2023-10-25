@@ -6,9 +6,8 @@ I am a passionate recent graduate of a Full Stack Web Development course, with a
 
 
 - 🌱 I’m currently learning on a journey of discovery and growth, exploring the world of Python and TypeScript as I strive to deepen my knowledge and proficiency in these two versatile programming languages.
-- Contacto: Pueden ponerse en contacto conmigo a través de mi correo electrónico: alexander1997bryan@gmail.com
-
--LinkedIn: Para obtener más información sobre mi experiencia y mi perfil profesional, los invito a visitar mi perfil de LinkedIn: https://www.linkedin.com/in/bryan-alexander-paredes-tomalo/
+- Contact: You can get in touch with me via my email: alexander1997bryan@gmail.com
+- LinkedIn: For more information about my experience and professional profile, I invite you to visit my LinkedIn profile: https://www.linkedin.com/in/bryan-alexander-paredes-tomalo/
 
 
 <h3 align="left">Languages and Tools:</h3>
